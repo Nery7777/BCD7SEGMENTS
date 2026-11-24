@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Contador de numeros logicos en codigo binario
 
 ## How to test
 
-Explain how to use your project
+Mediante programacion en dos paginas web
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Led, transistores, puertas logicas, display de 7 segmentos
